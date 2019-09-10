@@ -178,7 +178,8 @@
 }
 
 .site-header.dark {
-  background: _palette(secondary);
+  background: url(../../../static/images/background-header.jpg);
+  background-size: cover;
   border: 0;
   color: _palette(meta);
 
