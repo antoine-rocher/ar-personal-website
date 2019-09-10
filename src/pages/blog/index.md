@@ -1,8 +1,8 @@
 ---
-title: Publications & Projects
+title: Posts
 menus:
   main:
-    title: Publications & Projects
+    title: Posts
     weight: 2
 template: blog
 ---
