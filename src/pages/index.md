@@ -10,6 +10,7 @@ sections:
   - actions:
       - label: About me
         url: /about
+      - label: View resume
     component: ContentBlock
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
