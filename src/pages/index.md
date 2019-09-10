@@ -11,6 +11,7 @@ sections:
       - label: About me
         url: /about
       - label: View resume
+        url: 'https://drive.google.com/open?id=16RrxPbFS0dsgiACWSk-fJKwgAsPIrtq0'
     component: ContentBlock
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
