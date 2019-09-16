@@ -14,10 +14,14 @@ sections:
         url: 'https://drive.google.com/open?id=16RrxPbFS0dsgiACWSk-fJKwgAsPIrtq0'
     component: ContentBlock
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Hello, my name is Antoine Rocher and I am a recent graduate in
+      Astrophysique from the Master of Astrophysics of Unversité Claude Bernard
+      Lyon 1.
+
+
+      I am very interested in science in general and especially physics and
+      astrophysics. I also like sport (I played basketball during 8 years in
+      competion) and I was very involved in the university student associations.
     section_id: about
     title: About
     type: contentblock
