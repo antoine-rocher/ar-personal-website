@@ -14,7 +14,7 @@ sections:
     component: ContentBlock
     content: >-
       Hello, my name is Antoine Rocher and I am a recent graduate in
-      Astrophysique from the Master of Astrophysics of Unversité Claude Bernard
+      Astrophysique from the Master in Astrophysics of Unversité Claude Bernard
       Lyon 1.
 
 
