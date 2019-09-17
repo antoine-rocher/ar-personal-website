@@ -9,4 +9,4 @@ template: page
 ---
 > Conference Proceedings :
 
-* "Exotic circumbinary discs in misaligned systems", Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, SF2A 2018, Bordeaux, FRANCE
+* "[_Exotic circumbinary discs in misaligned systems_](https://ui.adsabs.harvard.edu/abs/2018sf2a.conf..163R/abstract)", Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, SF2A 2018, Bordeaux, FRANCE
