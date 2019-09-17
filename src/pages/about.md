@@ -15,7 +15,6 @@ template: page
   \
   During my 1st year of Master's degree I studied fundamental physics such as **quantum mechanics, atomic physics, general relativity, electromagnetism theory**... \
   I went to Chile for my 2-month internship on **"Hydrodynamic Simulations of protoplanetary discs**" where I perform SPH  numerical simulations of protoplanetary discs around binary stars.\
-  \
   I chose to specialize in Astrophysics for my 2nd year of Master's Degree. The courses was at the Centre de Recherche d'Astrophysique de Lyon (CRAL). I studied general astrophysics subjects such as **Galaxies formation and evolution, Stellar and planetary formation, stellar astrophysics, observational cosmology, interstellar meduim**... \
   My Master's thesis was about "**Modelling non-linear effects of redshift-space distortions induced by galaxy peculiar velocities**". I developed a C code for a semi-analytical model of redshift-space distortions. 
 
@@ -28,7 +27,7 @@ template: page
 
 ## __
 
-## Experience :
+## Projects :
 
 * [Modelling non-linear effects of redshift-space distortions induced by galaxy peculiar velocities**,**](https://github.com/antoine-rocher/Master-2-internship)
   \
