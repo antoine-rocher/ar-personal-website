@@ -10,7 +10,7 @@ template: page
 ---
 ## **Education :**
 
-* **2019 : Master's Degree in Theoretical Physics, speciality Astrophysics,** 
+* **2019 : Master's Degree in Theoretical Physics, speciality Astrophysics,** \
   Université Claude Bernard Lyon 1. \
   \
   During my 1st year of Master's degree I studied fundamental physics such as **quantum mechanics, atomic physics, general relativity, electromagnetism theory**... \
@@ -21,11 +21,12 @@ template: page
 
 
 
-* **2017 : Undergraduate degree in Physics (B.Sc.),** 
-  Université Claude Bernard Lyon 1
+* **2017 : Undergraduate degree in Physics (B.Sc.),** Université Claude Bernard Lyon 1
+  \
   \
   While I was completing my undergraduate studies, I was very involved in student associations. I first became president of the students association in my university for one year and I was then, for another year, responsible of a social grocery store for students with financial problems.  _See blabla below_
-  ## __
+
+## __
 
 ## Experience :
 
