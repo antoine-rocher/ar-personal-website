@@ -54,6 +54,7 @@ To improve my knowledge in physics, I am currently taking master's courses of Qu
   * LaTeX
   * UNIX, GNU/Linux
   * Microsoft Windows
+
 * **Languages :**
   * **French** : Native
   * **English** : English : B2 (advanced), Strong reading, writing and speaking competencies. TOEIC: 88% (870/990).
