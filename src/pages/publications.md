@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: List of my publications
+subtitle: ''
 menus:
   main:
     title: Publications
