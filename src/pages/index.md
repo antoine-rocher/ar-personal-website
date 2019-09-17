@@ -20,7 +20,7 @@ sections:
 
       I am very interested in science in general and especially physics and
       astrophysics. I also like sport (I played basketball during 8 years in
-      competion) and I was very involved in university student associations.
+      competition) and I was very involved in university student associations.
     section_id: about
     title: About
     type: contentblock
