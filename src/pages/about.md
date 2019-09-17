@@ -10,4 +10,21 @@ template: page
 ---
 ## **Education**
 
-* **2019 : Master's Degree in Theoretical Physics, speciality Astrophysics,**              Université Claude Bernard Lyon 1.                                                                                                                 During my 1st year of Master's degree I studied fundamental physics such as **quantum mechanics, atomic physics, general relativity, electromagnetism theory**... I chose to specialize in Astrophysics for my 2nd year of Master's Degree. I studied general astrophysics subjects such as **Galaxies formation and evolution, Stellar and planetary formation, stellar astrophysics, observational cosmology, interstellar meduim**... My Master's thesis was about "**Modelling non-linear effects of redshift-space distortions induced by galaxy peculiar velocities**". I developed a C code for a semi-analytical model of redshift-space distortions.
+* **2019 : Master's Degree in Theoretical Physics, speciality Astrophysics,** \
+  Université Claude Bernard Lyon 1. \
+  \
+  During my 1st year of Master's degree I studied fundamental physics such as **quantum mechanics, atomic physics, general relativity, electromagnetism theory**... \
+  I went to Chile for my 2-month internship on **"Hydrodynamic Simulations of protoplanetary discs**" where I perform SPH  numerical simulations of protoplanetary discs around binary stars.\
+  \
+  I chose to specialize in Astrophysics for my 2nd year of Master's Degree. I studied general astrophysics subjects such as **Galaxies formation and evolution, Stellar and planetary formation, stellar astrophysics, observational cosmology, interstellar meduim**... \
+  My Master's thesis was about "**Modelling non-linear effects of redshift-space distortions induced by galaxy peculiar velocities**". I developed a C code for a semi-analytical model of redshift-space distortions. 
+
+
+
+* **2017 : Undergraduate degree in Physics (B.Sc.),** \
+  Université Claude Bernard Lyon 1
+  \
+  While I was completing my undergraduate studies, I was very involved in student associations. I first became president of the students association in my university for one year and I was then, for another year, responsible of a social grocery store for students with financial problems.  _See blabla below²___
+* __
+
+__
