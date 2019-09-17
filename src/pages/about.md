@@ -10,25 +10,21 @@ template: page
 ---
 I actively **look for a PhD in astrophysics**. My main research insterest are **cosmology, extragalactic astrophysics, and exoplanets dectection and caracterization**. 
 
-To improve my knowledge in physics, I am currently taking master's courses of Quantum Field Theory, Particles & Astroparticles physics, Nuclear & Astro-nuclear physics, Atomic & Molecular physics and Statistical physics at Université Claude Bernard Lyon 1.
-
-
+To improve my knowledge in physics, I am currently taking master's courses of Quantum Field Theory, Particles & Astroparticles physics, Nuclear & Astro-nuclear physics, Atomic & Molecular
+ physics and Statistical physics at _Université Claude Bernard Lyon 1._
 
 ## **Education :**
 
 * **2019 : Master's Degree in Theoretical Physics, speciality Astrophysics,** \
-   Université Claude Bernard Lyon 1. \
+   _Université Claude Bernard Lyon 1._ \
    During my 1st year of Master's degree I studied fundamental physics such as **quantum mechanics, atomic physics, general relativity, electromagnetism theory**... \
    I went to Chile for my 2-month internship on **"Hydrodynamic Simulations of protoplanetary
   discs**" where I perform SPH  numerical simulations of protoplanetary discs around binary stars.\
    I chose to specialize in Astrophysics for my 2nd year of Master's Degree. The courses was at the Centre de Recherche d'Astrophysique de Lyon (CRAL). I studied general astrophysics subjects such as **Galaxies formation and evolution, Stellar and planetary formation, stellar astrophysics, observational cosmology, interstellar meduim**... \
    My Master's thesis was about "**Modelling non-linear effects of redshift-space distortions induced
   by galaxy peculiar velocities**". I developed a C code for a semi-analytical model of redshift-space distortions. 
-
-
-
 * **2017 : Undergraduate degree in Physics (B.Sc.),** \
-  Université Claude Bernard Lyon 1.
+  _Université Claude Bernard Lyon 1._
   \
   While I was completing my undergraduate studies, I was very involved in student associations. I first became president of the students association in my university for one year and I was then, for another year, responsible of a social grocery store for students with financial problems.  _See blabla below_
 
@@ -56,9 +52,10 @@ To improve my knowledge in physics, I am currently taking master's courses of Qu
   * LaTeX
   * UNIX, GNU/Linux
   * Microsoft Windows
-
 * **Languages :**
   * **French** : Native
-  * **English** : English : B2 (advanced), Strong reading, writing and speaking competencies. TOEIC: 88% (870/990).
+  * **English** : English : B2 (advanced), Strong reading,
+    writing and speaking competencies.
+    TOEIC: 88% (870/990).
   * **Italian** : B1 (intermediary)
   * **Spanish** : Beginner
