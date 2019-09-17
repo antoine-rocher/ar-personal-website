@@ -2,16 +2,15 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Graduated in Astrophysics - looking for a PhD
     section_id: hero
+    title: 'Antoine Rocher '
     type: heroblock
   - actions:
       - label: About me
         url: /about
       - label: View resume
-        url: 'https://drive.google.com/open?id=16RrxPbFS0dsgiACWSk-fJKwgAsPIrtq0'
+        url: 'https://drive.google.com/open?id=1KxhmcpbnE81xT4UnVqSF5fVsZA8B1ovE'
     component: ContentBlock
     content: >-
       Hello, my name is Antoine Rocher and I am a recent graduate in
@@ -21,7 +20,7 @@ sections:
 
       I am very interested in science in general and especially physics and
       astrophysics. I also like sport (I played basketball during 8 years in
-      competion) and I was very involved in the university student associations.
+      competion) and I was very involved in university student associations.
     section_id: about
     title: About
     type: contentblock
