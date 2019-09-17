@@ -31,6 +31,7 @@ template: page
 ## Experience :
 
 * [Modelling non-linear effects of redshift-space distortions induced by galaxy peculiar velocities**,**](https://github.com/antoine-rocher/Master-2-internship)
+  \
   Master 2 intership (4 months) supervised by _Sylvain de la Torre,_ at the Laboratoire d'Astrophysique de Marseille (LAM).
   I was working to develop a C code for redshift-space distortions models and compare model predictions with numerical cosmological simulations.
 * [Photometric study of the open cluster NGC 1245,](https://github.com/antoine-rocher/Master-2-Observatory-project-OHP)\
