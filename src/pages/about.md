@@ -8,6 +8,10 @@ menus:
     weight: 4
 template: page
 ---
+I actively **look for a PhD in astrophysics**. My main research insterest are **cosmology, extragalactic astrophysics, and exoplanets dectection and caracterization**. 
+
+To improve my knowledge in physics, I am currently taking master's courses of Quantum Field Theory, Particles & Astroparticles physics, Nuclear & Astro-nuclear physics, Atomic & Molecular physics and Statistical physics at Université Claude Bernard Lyon 1.
+
 
 
 ## **Education :**
