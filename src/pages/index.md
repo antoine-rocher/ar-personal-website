@@ -13,14 +13,17 @@ sections:
         url: 'https://drive.google.com/open?id=1KxhmcpbnE81xT4UnVqSF5fVsZA8B1ovE'
     component: ContentBlock
     content: >-
-      Hello, my name is Antoine Rocher and I am a recent graduate in
-      Astrophysique from the Master in Astrophysics of the Université Claude
-      Bernard Lyon 1.
+      Welcome ! I am a recent graduate in Astrophysique from the Master in
+      Astrophysics of the Université Claude Bernard Lyon 1. I did my Master
+      thesis in Marseille in cosmology and my main research interests are
+      cosmology and extragalactic astrophysics.
 
 
-      I am very interested in science in general and especially in physics and
-      astrophysics. I also like sport (I played basketball during 8 years in
-      competition) and I was very involved in university student associations.
+      I am very open minded and I enjoy to discuss about science, environment,
+      politics... I like sport especially basketball and skiing and I love to
+      travel (backpacker travels) around the world, discover new countries and
+      cultures. I was very involved in different student associations which try
+      to enhance the lifestyle of students.
     section_id: about
     title: About
     type: contentblock
