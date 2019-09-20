@@ -19,9 +19,9 @@ sections:
       cosmology and extragalactic astrophysics.
 
 
-      I am very open minded and I enjoy to discuss about science, environment,
-      politics... I like sport especially basketball and skiing and I love to
-      travel (backpacker travels) around the world, discover new countries and
+      I am very open minded and I enjoy to discuss about science, environment...
+      I like sport especially basketball and skiing and I love to travel
+      (backpacker travels) around the world, discover new countries and
       cultures. I was very involved in different student associations which try
       to improve the lifestyle of students.
     section_id: about
