@@ -23,7 +23,7 @@ sections:
       politics... I like sport especially basketball and skiing and I love to
       travel (backpacker travels) around the world, discover new countries and
       cultures. I was very involved in different student associations which try
-      to enhance the lifestyle of students.
+      to improve the lifestyle of students.
     section_id: about
     title: About
     type: contentblock
