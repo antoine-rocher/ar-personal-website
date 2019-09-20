@@ -12,6 +12,8 @@ menus:
     weight: ''
 template: post
 ---
+> Sources : Université de Montréal,  Credit photo: Alex Boersma
+
 A new study by Professor Björn Benneke of the Institute for Research on Exoplanets at the Université de Montréal, his doctoral student Caroline Piaulet and several of their collaborators reports the detection of water vapour and perhaps even liquid water clouds in the atmosphere of the planet K2-18b. This exoplanet is about nine times more massive than our Earth and is found in the habitable zone of the star it orbits. This M-type star is smaller and cooler than our Sun, but due to K2-18b's close proximity to its star, the planet receives almost the same total amount of energy from its star as our Earth receives from the Sun.
 
 Abstract of the publication ([here](https://arxiv.org/abs/1909.04642)) : 
