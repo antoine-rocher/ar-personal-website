@@ -8,7 +8,7 @@ excerpt: 'Sources : Université de Montréal,  Credit photo: Alex Boersma'
 menus:
   main:
     identifier: ''
-    title: Water detected on an exoplanet located in its star’s habitable zone
+    title: ''
     weight: ''
 template: post
 ---
