@@ -5,7 +5,7 @@ img_path: ''
 menus:
   main:
     title: About
-    weight: 4
+    weight: 2
 template: page
 ---
 I actively **look for a PhD in astrophysics**. My main research interests are in **cosmology** with the study of the **early universe** and **galaxy formation and evolution.** 
