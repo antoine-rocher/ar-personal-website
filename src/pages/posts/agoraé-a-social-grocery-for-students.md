@@ -2,7 +2,7 @@
 title: 'AGORAé : A social grocery for students'
 date: 2019-09-26T17:42:11.567Z
 thumb_img_path: /images/logo_agorae.png
-content_img_path: /images/logo_agorae.png
+content_img_path: /images/310x190_agorae-perennise-doua.jpg
 template: post
 ---
 To face the growing impoverishment of students, the "Fédération des Associations Générales Etudiantes" (FAGE) launched its “AGORAé” system in 2011 to develop a national network of social grocery stores specially targeted at students. The project aims at developing a national network of social grocery stores on universities campuses. Indeed, many students on French campuses abandon their studies to take up regular jobs, simply because they do not have enough money. These are mainly students on bursaries, those from the middle classes who do not qualify for any benefits, student parents, etc.
