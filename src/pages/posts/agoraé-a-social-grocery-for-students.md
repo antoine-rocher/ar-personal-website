@@ -9,6 +9,7 @@ To face the growing impoverishment of students, the "Fédération des Associatio
 
 These social grocery stores allow students with limited revenue to buy essentials (e.g. foods, personal hygiene and household cleaning products and study materials) all at reduced cost, usually 10-of their usual price and create places to meet and share a friendly moment. The student social grocery stores are run by local associations or federations on campus and are a part of the range of student aids available. They work closely with partners such as the CROUS (Regional Student and University Centres), university restaurants, social workers, and other agencies, through the health and welfare services.
 
-The AGORAé is also and above all a lively place where students can socialise in more than 100 square meters, open to everyone, not just the members of the grocery store. Students can eat, relax, read books, play board games. It is also a safe and confidential place to talk about your daily life and find support and tools to cope with difficulties. There are already 19 AGORAé established throughout France.
+The AGORAé is also and above all a lively place where students can socialise in more than 100 square meters, open to everyone, not just the members of the grocery store. Students can eat, relax, read books, play board games. It is also a safe and confidential place to talk about your daily life and find support and tools to cope with difficulties.
+ There are already 19 AGORAé established throughout France.
 
-You van find more information about AGORAé [here](https://www.fage.org/innovation-sociale/solidarite-etudiante/agorae-fage/). (In french)
+You can find more information about AGORAé [here](https://www.fage.org/innovation-sociale/solidarite-etudiante/agorae-fage/). (In french)
