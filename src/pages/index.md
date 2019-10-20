@@ -16,11 +16,11 @@ sections:
       Welcome ! I am a recent graduate in Astrophysics from the Master in
       Astrophysics of the Université Claude Bernard Lyon 1. I did my Master
       thesis in Marseille in cosmology and my main research interests are
-      cosmology and extragalactic astrophysics.
+      cosmology and galaxy formation and evolution.
 
 
       I am very open minded and I enjoy to discuss about science, environment...
-      I like sport especially basketball and skiing and I love to travel
+      I like sport especially basketball and skiing. I love to travel
       (backpacker travels) around the world, discover new countries and
       cultures. I was very involved in different student associations which try
       to improve the lifestyle of students.
